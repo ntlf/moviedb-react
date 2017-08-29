@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Roboto;
+  background-color: #fafafa;
+}
+
+.Results {
+  margin-top: 32px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.MovieListContainer {
+  width: 360px;
+}
+
+.MovieDetailsContainer {
+  width: 720px;
+}
+
+.Header {
+  text-align: center;
+}
+
+.SearchMovie {
+  margin: auto;
+  width: 182px;
+}
+
+.moviePoster {
+  height: 256px;
+  float: left;
+  margin: 10px 10px 0px 0px;
+}
